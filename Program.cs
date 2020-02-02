@@ -6,7 +6,7 @@ namespace Proyecto4_Arreglos
     {
         static void Main(string[] args)
         {
-            // ARREGLOS
+            // ARRAYS
              
             // Sintaxis 1
             int[] arreglo = new int[5];
@@ -28,8 +28,29 @@ namespace Proyecto4_Arreglos
 
             Console.WriteLine("Tamaño de numeros: {0}", numero.Length);
 
-            // Mostrar el ultimo valor
-            Console.WriteLine(numero[numero.Length - 1]);
+                    // Mostrar el ultimo valor
+                    Console.WriteLine(numero[numero.Length - 1]);
+
+            Console.Write("\r\n");
+
+            //Itinerar Arrays
+            int[] array = { 10, 5, 2, -2, -5, -10 };
+
+            Console.WriteLine("Iterar arreglo con el uso del For");
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write("{0} ", array[i]);
+            }
+
+            Console.Write("\r\n");
+
+            Console.WriteLine("Iterar Array con ciclor for each");
+
+            foreach (int num in array)  //La variable foreach recoge cada valor del Array y lo muestra numero por numero hasta acabar el ciclo.
+            {
+                Console.Write("{0} ", num);
+            }
         }
     }
 }
