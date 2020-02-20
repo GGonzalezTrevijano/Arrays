@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\gonza\\.nuget\\packages\\": {}
+    "C:\\Users\\ggonzalez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos Programación\\Proyecto4 Arreglos\\Proyecto4 Arreglos.csproj",
-      "projectName": "Proyecto4 Arreglos",
-      "projectPath": "D:\\Proyectos Programación\\Proyecto4 Arreglos\\Proyecto4 Arreglos.csproj",
-      "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos Programación\\Proyecto4 Arreglos\\obj\\",
+      "projectUniqueName": "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arrays.csproj",
+      "projectName": "Proyecto4 Arrays",
+      "projectPath": "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arrays.csproj",
+      "packagesPath": "C:\\Users\\ggonzalez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ggonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

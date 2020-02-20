@@ -9,3 +9,14 @@ D:\Proyectos Programación\Proyecto4 Arreglos\bin\Debug\netcoreapp3.1\Proyecto4 
 D:\Proyectos Programación\Proyecto4 Arreglos\bin\Debug\netcoreapp3.1\Proyecto4 Arreglos.pdb
 D:\Proyectos Programación\Proyecto4 Arreglos\obj\Debug\netcoreapp3.1\Proyecto4 Arreglos.dll
 D:\Proyectos Programación\Proyecto4 Arreglos\obj\Debug\netcoreapp3.1\Proyecto4 Arreglos.pdb
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arreglos.exe
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arreglos.deps.json
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arreglos.runtimeconfig.json
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arreglos.runtimeconfig.dev.json
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arreglos.dll
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arreglos.pdb
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arreglos.csprojAssemblyReference.cache
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arreglos.AssemblyInfoInputs.cache
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arreglos.AssemblyInfo.cs
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arreglos.dll
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arreglos.pdb

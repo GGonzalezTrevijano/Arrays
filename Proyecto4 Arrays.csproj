@@ -6,4 +6,8 @@
     <RootNamespace>Proyecto4_Arreglos</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Clases\" />
+  </ItemGroup>
+
 </Project>

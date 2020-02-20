@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arreglos.csproj": {}
+    "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arreglos.csproj": {
+    "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arreglos.csproj",
-        "projectName": "Proyecto4 Arreglos",
-        "projectPath": "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arreglos.csproj",
+        "projectUniqueName": "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arrays.csproj",
+        "projectName": "Proyecto4 Arrays",
+        "projectPath": "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\Proyecto4 Arrays.csproj",
         "packagesPath": "C:\\Users\\ggonzalez\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ggonzalez\\source\\repos\\Proyecto4 Arrays\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,0 +1,11 @@
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arrays.exe
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arrays.deps.json
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arrays.runtimeconfig.json
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arrays.runtimeconfig.dev.json
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arrays.dll
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\bin\Debug\netcoreapp3.1\Proyecto4 Arrays.pdb
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arrays.csprojAssemblyReference.cache
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arrays.AssemblyInfoInputs.cache
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arrays.AssemblyInfo.cs
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arrays.dll
+C:\Users\ggonzalez\source\repos\Proyecto4 Arrays\obj\Debug\netcoreapp3.1\Proyecto4 Arrays.pdb
